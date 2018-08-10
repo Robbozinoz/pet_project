@@ -1,0 +1,102 @@
+/*body {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	background-color: #0E3D59;
+}*/
+
+form {
+	padding: 7px;
+	border: solid 1px #4B4B4B;
+	height: 100%;
+	background-color: #592622;
+}
+
+fieldset {
+	border: none;
+}
+
+div.two label {
+	float: left;
+	width: 33%;
+	text-align: left;
+	padding-right: 7px;
+	padding-left: 7px;
+	position: relative;
+	margin-top: 3px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-size: 14px;
+	color: #ffffff;
+	/*margin-top: 2px;*/
+}
+
+div.two input, div.two select, div.two textarea{
+	/*float: left;*/
+	width: 66%;
+	text-align: left;
+	margin-top: 7px;
+}
+
+div.one {
+	text-align: center;
+}
+
+#submit {
+	border: 1.75px #FFFFFF solid; 
+	padding: 7px 14px;
+	float: right;
+	margin: 20px 7px 20px 7px;
+	border-radius: 20px;
+	width: 100px;
+	color: #FFFFFF;
+	text-decoration: none;
+	transition: 0.4s;
+	font-size: 16px;
+	cursor: pointer;
+	background: #64732F;
+	font-family: Calibri, Segoe, Verdana, 'Trebuchet MS', 'sans-serif';
+}
+
+.tooltip {
+	display: block; 
+	visibility: hidden;
+	left: 100%;
+	top: 0; 
+	margin-top: 14px;
+	padding: 7px;
+	border-radius: 10px;
+	font-weight: normal;
+	font-size: 0.75em;
+	color: #ffffff;
+	border:solid 1px thick;
+	background: #64732F;
+	font-family: Calibri, Segoe, Verdana, 'Trebuchet MS', 'sans-serif';
+}
+
+.error {
+	color: #D92525;
+}
+span.error{
+	padding-left: 10px;
+}
+
+/*@media (min-width: 750px) {
+	
+div.two label {
+	padding-left: 7px;
+	padding-right: 7px;
+	font-family: Calibri, Segoe, Verdana, 'Trebuchet MS', 'sans-serif';
+	font-size: 12px;
+	}
+}
+
+@media (min-width: 1024px){
+	
+div.two label{
+	padding-right: 7px;
+	padding-left: 7px;
+	font-family: Calibri, Segoe, Verdana, 'Trebuchet MS', 'sans-serif';
+	font-size: 16px;
+	}
+}*/
+	
+	
