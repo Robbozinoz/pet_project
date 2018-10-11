@@ -226,14 +226,14 @@ body {
 }
 
 h1 {
-    font-size: 57px;
+    font-size: 3.0em;
     text-transform: uppercase;
     font-weight: 200;
     margin-bottom: 60px;
 }
 
 h2 {
-    font-size: 30px;
+    font-size: 1.8em;
     text-transform: uppercase;
     font-weight: 400;
     margin-bottom: 23px;
@@ -241,14 +241,14 @@ h2 {
 }
 
 .hero h3 {
-    font-size: 16px;
+    font-size: 1.0em;
     text-transform: none;
     font-weight: 200;
     margin-bottom: 120px;
 }
 
 h3 {
-    font-size: 16px;
+    font-size: 1.0em;
     text-transform: uppercase;
     font-weight: 200;
     text-align: center;
@@ -256,14 +256,14 @@ h3 {
 }
 
 h4 {
-    font-size: 16px;
+    font-size: 1.0em;
     font-weight: 200;
     padding: 7px;
     text-align: center;
 }
 
 p {
-    font-size: 16px;
+    font-size: 1.0em;
     padding: 7px;
     font-weight: 400;
     margin-bottom: 10px 0 35px 0;
@@ -280,7 +280,7 @@ p {
     margin-left: 14px;
     border-radius: 30px;
     width: 50%;
-    font-size: 16px;
+    font-size: 1.0em;
     color: #FFFFFF;
     text-decoration: none;
     cursor: pointer;
@@ -307,7 +307,7 @@ p {
     margin-bottom: 7px;
     border-radius: 20px;
     width: 50%;
-    font-size: 16px;
+    font-size: 1.0em;
     color: #FFFFFF;
     text-decoration: none;
     cursor: pointer;
@@ -332,7 +332,7 @@ p {
     padding: 8px 30px;
     border-radius: 30px;
     width: 50%;
-    font-size: 16px;
+    font-size: 1.0em;
     color: #FFFFFF;
     text-decoration: none;
     transition: 0.4s;
@@ -346,7 +346,7 @@ p {
     padding: 8px 30px;
     border-radius: 30px;
     width: 50%;
-    font-size: 16px;
+    font-size: 1.0em;
     color: #FFFFFF;
     text-decoration: none;
     transition: 0.4s;
@@ -446,7 +446,7 @@ div ul li {
 
 .footer-text {
     float: right;
-    font-size: 13px;
+    font-size: 0.8em;
     font-family: happy_Monkey, arial, sans-serif;
     font-style: italic;
 }
@@ -536,7 +536,7 @@ address img {
         text-align: center;
     }
     h1 {
-        font-size: 40px;
+        font-size: 3.0em;
         margin-bottom: 90px;
     }
     h2 {
