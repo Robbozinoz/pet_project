@@ -69,7 +69,7 @@ div.one {
     transition: 0.4s;
     font-size: 1.0em;
     cursor: pointer;
-    background: #64732F;
+    background: #525E26;
     font-family: Calibri, Segoe, Verdana, 'Trebuchet MS', 'sans-serif';
 }
 
@@ -85,7 +85,7 @@ div.one {
     font-size: 0.75em;
     color: #ffffff;
     border: solid 1px thick;
-    background: #64732F;
+    background: #525E26;
     font-family: Calibri, Segoe, Verdana, 'Trebuchet MS', 'sans-serif';
 }
 

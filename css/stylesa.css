@@ -289,7 +289,7 @@ p {
 
 .socialinfo:active,
 .socialinfo:hover {
-    background: #64732f;
+    background: #525E26;
     background-position: 50% 20%;
     background-repeat: no-repeat;
 }
@@ -337,7 +337,7 @@ p {
     text-decoration: none;
     transition: 0.4s;
     cursor: pointer;
-    background: #64732F;
+    background: #525E26;
     font-family: Calibri, Segoe, 'Trebuchet MS', Verdana, 'sans-serif';
 }
 
@@ -357,7 +357,7 @@ p {
 
 button.moreinfo-dark.active,
 button.accordion:hover {
-    background: #64732F;
+    background: #525E26;
     background-image: url(../images/libra80.png);
     background-position: 50% 20%;
     background-repeat: no-repeat;
@@ -405,7 +405,7 @@ div ul li {
 }
 
 .panel.show p {
-    text-align: justify;
+    text-align: center;
 }
 
 .info-box-dark h4,
@@ -418,7 +418,7 @@ div ul li {
 }
 
 .info-box-tan {
-    background-color: #64732F;
+    background-color: #525E26;
     color: #FFFFFF;
     padding: 40px 14px 40px;
     text-align: center;
