@@ -15,8 +15,21 @@ fieldset {
     border: none;
 }
 
-div.two label,
 legend {
+    float: left;
+    /*width: 33%;*/
+    text-align: left;
+    padding-right: 7px;
+    padding-left: 7px;
+    position: relative;
+    margin-top: 3px;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+    font-size: 14px;
+    color: #ffffff;
+    /*margin-top: 2px;*/
+}
+
+div.two label {
     float: left;
     width: 33%;
     text-align: left;
