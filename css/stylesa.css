@@ -513,6 +513,15 @@ address img {
     text-align: center;
 }
 
+.skip_link {
+    position: absolute;
+    left: -10000px;
+    top: auto;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+}
+
 
 /*Tablet View*/
 
