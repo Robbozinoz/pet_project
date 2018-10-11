@@ -15,7 +15,8 @@ fieldset {
     border: none;
 }
 
-div.two label {
+div.two label,
+legend {
     float: left;
     width: 33%;
     text-align: left;
