@@ -16,14 +16,14 @@ fieldset {
 }
 
 legend {
-    /*float: left;*/
-    width: 100%;
-    /*text-align: left;*/
+    width: 33%;
+    text-align: left;
     padding-right: 7px;
     padding-left: 7px;
     padding-bottom: 7px;
     position: relative;
     margin-top: 3px;
+    color: #ffffff;
     font-family: happy_Monkey, arial, sans-serif;
     font-style: italic;
     font-size: 16px;
